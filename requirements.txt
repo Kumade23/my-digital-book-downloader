@@ -4,3 +4,4 @@ jsonlib
 simplejson
 uuid
 tqdm
+remotezip
