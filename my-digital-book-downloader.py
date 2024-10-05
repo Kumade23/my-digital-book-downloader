@@ -34,7 +34,7 @@ login = session.post(
 
 token = login.json().get('result', {}).get('data', {}).get('access_token', None)
 
-url_libri = "https://npmoffline.sanoma.it/mcs/api/v1/books?app=true"
+url_libri = "https://npmoffline.sanoma.it/mcs/api/v1/books"
 headers_libri = {
     "X-Auth-Token": f"Bearer {token}"
 }
