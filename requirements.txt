@@ -1,7 +1,6 @@
 tls_client
 requests
-jsonlib
-simplejson
+json
 uuid
 tqdm
 remotezip
