@@ -4,3 +4,4 @@ json
 uuid
 tqdm
 remotezip
+typing_extensions
