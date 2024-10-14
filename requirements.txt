@@ -1,6 +1,5 @@
 tls_client
 requests
-json
 uuid
 tqdm
 remotezip
