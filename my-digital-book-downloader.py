@@ -50,7 +50,7 @@ for item in data['result']['data']:
     titoli_id.append((titolo, id))
 
 for titolo, id in titoli_id:
-    print(f"\nTitle: {titolo} | ID: {id}")
+    print(f"\n{titolo} | ID: {id}")
 
 id_scelto = input("\nID : ")
 
